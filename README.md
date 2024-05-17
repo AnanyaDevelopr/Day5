@@ -1,6 +1,6 @@
 **Password Validation**
 
 **Tech Stack:**
-** HTML
-   CSS
-   Javascript**
+  1.HTML
+  2.CSS
+  3.Javascript
